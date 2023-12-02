@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /invited_tutorials/
-title: Invited tutorials
+title: Tutorials
 description: 
 nav: true
 nav_order: 5
