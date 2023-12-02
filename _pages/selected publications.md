@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Selected publications
+title: Publications
 description: 
 nav: true
 nav_order: 2
