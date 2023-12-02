@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /professional_activities/
-title: Professional activities
+title: Activities
 description: 
 nav: true
 nav_order: 5
