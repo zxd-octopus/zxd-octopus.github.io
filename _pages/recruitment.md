@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /recruitment/
-title: Recruitment
+permalink: /vacature/
+title: Vacature
 description: 
 nav: true
 nav_order: 9
