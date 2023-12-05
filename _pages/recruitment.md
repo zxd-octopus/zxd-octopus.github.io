@@ -7,12 +7,14 @@ nav: true
 nav_order: 9
 ---
 
----
-
 ### The Faculty of Science and the Leiden Institute of Advanced Computer Science (LIACS) are looking for a :
+
+<br>
 
 ### 1 PhD Candidate, Generative Information Retrieval
 ### Vacancy number: 
+
+<br>
 
 Recent advancements in generative neural networks have greatly expanded the capabilities of large language models. These models not only excel at memorizing the vocabulary, morphology, and syntax of human languages but also demonstrate the ability to memorize and reason over knowledge. This evolution offers thrilling prospects for improving generative information retrieval (GenIR) systems. GenIR aims to utilize generative AI models to produce and rank lists of document identifiers in response to user queries. However, this field is not without its hurdles. Merging semantic insights from previously unseen documents into the retrieval process is an intricate challenge. Additionally, LLMs are prone to biases and hallucinations, which can hinder their deployment in GenIR.
 
