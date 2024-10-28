@@ -10,8 +10,6 @@ I'm a recent graduate from the [School of Computer Science and Technology](https
 
 My current research areas include Recommender Systems and Natural Language Processing.
 
-I have published four papers in WSDM, RecSys(**Best Full Paper Award**), and the Journal of Computer Research and Development (one of the top three computer science journals in China). My published work focuses on conversational recommender systems, news recommendation, and medical dialogue generation.
-
  **I am actively looking forward to pursuing a PhD position for Fall 2025 to further my research!** Please see my CV for more details. Feel free to contact me if you’re interested!
 
 
