@@ -28,7 +28,7 @@ author_profile: true
     
   ---
 - **Research Internship (The 2023 Tencent Rhino-Bird Research Elite Program)**  
-  [Weixin Group, Tencent Inc](https://www.tencent.com/en-us/about.html)., Beijing, China  
+  [Weixin Group, Tencent Inc](https://www.tencent.com/en-us/about.html), Beijing, China  
   **Period**: Jun 2023 - Feb 2024  
   **Supervisor**: [Ruobing Xie](https://ruobingxie.github.io/)  
     
