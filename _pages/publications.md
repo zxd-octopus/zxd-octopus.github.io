@@ -31,7 +31,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ---
 
    Memory Networks Based Knowledge-Aware Medical Dialogue Generation  
-   [Xiaoyu Zhang](https://github.com/zxd-octopus/VRICR), Dongdong Li, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren  
+   **Xiaoyu Zhang**, Dongdong Li, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren  
    Journal of Computer Research and Development, 2022  
    [paper](https://doi.org/10.7544/issn1000-1239.20210851)
 
