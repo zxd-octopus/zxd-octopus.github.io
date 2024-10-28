@@ -4,7 +4,7 @@ collection: publications
 category: # manuscripts
 permalink: [DOI: 10.1145/3640457.3688133](https://doi.org/10.1145/3640457.3688133)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 08 October 2024
+date: 08-10-2024
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
