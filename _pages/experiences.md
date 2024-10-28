@@ -8,8 +8,8 @@ author_profile: true
 ## Education
 
 - **M.E. in Computer Technique**  
-  School of Computer Science and Technology, Shandong University, Qingdao, China
-  **Period**: Sep 2021 — July 2024
+  School of Computer Science and Technology, Shandong University, Qingdao, China  
+  **Period**: Sep 2021 — July 2024  
   **Supervisor**: [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
     
   ---
