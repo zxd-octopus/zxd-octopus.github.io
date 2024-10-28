@@ -50,13 +50,13 @@ author_profile: true
 - **Research and Development Internship**  
   NLP and KG Department, Baidu Inc, Beijing, China.
   **Period**: May 2022 - Feb 2023  
-  **Responsibility**: Participation in the development of the social media platform “Bai Jiahao”.
+  **Responsibility**: Participation in the development of the social media platform “Bai Jiahao”.  
   **Achievement**: Developed an effective news text cleaning strategy to collect training data for the digital hosts. In the human evaluation, the cleaned data achieved a pass rate of 98%.
 
 ---
 - **Teaching Assistant**  
   School of Computer Science and Technology, Shandong University, Qingdao, China.  
   **Period**: 2021 - 2023  
-  **Course**: Introduction to Data Science (Spring).
+  **Course**: Introduction to Data Science (Spring).  
   **Responsibilities**: Designed lab experiments, taught lab sessions, created exam questions, and graded reports and exams.
 
