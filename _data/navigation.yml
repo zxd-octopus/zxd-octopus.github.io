@@ -15,4 +15,4 @@ main:
     url: /experiences/
     
   - title: "CV"
-    url: "../assets/XiaoyuZhang_CV.pdf"
+    url: "/assets/XiaoyuZhang_CV.pdf"
