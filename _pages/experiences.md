@@ -39,24 +39,24 @@ author_profile: true
 ---
 - **Bachelor Thesis**  
   School of Computer Science and Technology, Shandong University, Qingdao, China  
-  **Period**: Sep 2020 - Aug 2022    
-  **Research Area**: Medical dialogue generation and memory network.  
-  **Contribution**:
-  - Conceptualization, methodology, data collection, and writing.
-  - Propose a medical dialogue generation method using knowledge-aware memory networks to improve response quality on diversity, correctness, and professionalism.
+  - **Period**: Sep 2020 - Aug 2022    
+  - **Research Area**: Medical dialogue generation and memory network.  
+  - **Contribution**:
+    - Conceptualization, methodology, data collection, and writing.
+    - Propose a medical dialogue generation method using knowledge-aware memory networks to improve response quality on diversity, correctness, and professionalism.
 
 ## Work & Teaching Experiences
 
 - **Research and Development Internship**  
   NLP and KG Department, Baidu Inc, Beijing, China.
-  **Period**: May 2022 - Feb 2023  
-  **Responsibility**: Participation in the development of the social media platform “Bai Jiahao”.  
-  **Achievement**: Developed an effective news text cleaning strategy to collect training data for the digital hosts. In the human evaluation, the cleaned data achieved a pass rate of 98%.
+  - **Period**: May 2022 - Feb 2023  
+  - **Responsibility**: Participation in the development of the social media platform “Bai Jiahao”.  
+  - **Achievement**: Developed an effective news text cleaning strategy to collect training data for the digital hosts. In the human evaluation, the cleaned data achieved a pass rate of 98%.
 
 ---
 - **Teaching Assistant**  
   School of Computer Science and Technology, Shandong University, Qingdao, China.  
-  **Period**: 2021 - 2023  
-  **Course**: Introduction to Data Science (Spring).  
-  **Responsibilities**: Designed lab experiments, taught lab sessions, created exam questions, and graded reports and exams.
+  - **Period**: 2021 - 2023  
+  - **Course**: Introduction to Data Science (Spring).  
+  - **Responsibilities**: Designed lab experiments, taught lab sessions, created exam questions, and graded reports and exams.
 
