@@ -37,7 +37,7 @@ author_profile: true
 ## Work & Teaching Experiences
 
 - **Research and Development Internship**  
-  NLP and KG Department, Baidu Inc, Beijing, China.
+  NLP and KG Department, Baidu Inc, Beijing, China.  
   **Period**: May 2022 - Feb 2023  
   **Supervisor**: [Wei Li](https://weili-nlp.github.io/)
     
