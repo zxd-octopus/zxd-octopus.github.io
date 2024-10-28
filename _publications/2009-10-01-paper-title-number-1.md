@@ -2,8 +2,8 @@
 title: "Towards Empathetic Conversational Recommender Systems"
 collection: publications
 category: # manuscripts
-permalink: /publication/2024-10-08-paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: # /publication/2024-10-08-paper
+excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 08-10-2024
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
