@@ -16,17 +16,17 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ---
 
-## Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation  
-   **Authors:** Xiaoyu Zhang, Xin Xin, Dongdong Li, Wenxuan Liu, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren  
-   **Conference:** WSDM 2023 (Full track)  
-   **DOI:** [10.1145/3539597.3570426](https://doi.org/10.1145/3539597.3570426)
-
----
-
 ## Cognitive Biases in Large Language Models for News Recommendation  
    **Authors:** Yougang Lyu, Xiaoyu Zhang, Zhaochun Ren, Maarten de Rijke  
    **Workshop:** ROEGEN @ RecSys 2024  
    **DOI:** [10.48550/arXiv.2410.02897](https://doi.org/10.48550/arXiv.2410.02897)
+
+---
+
+## Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation  
+   **Authors:** Xiaoyu Zhang, Xin Xin, Dongdong Li, Wenxuan Liu, Pengjie Ren, Zhumin Chen, Jun Ma, Zhaochun Ren  
+   **Conference:** WSDM 2023 (Full track)  
+   **DOI:** [10.1145/3539597.3570426](https://doi.org/10.1145/3539597.3570426)
 
 ---
 
