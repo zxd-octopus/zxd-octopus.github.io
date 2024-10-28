@@ -14,7 +14,7 @@ My current research areas include:
 
 I have published four papers in WSDM, RecSys(**Best Full Paper Award**), and the Journal of Computer Research and Development (one of the top three computer science journals in China). My work focuses on conversational recommender systems, news recommendation, and medical dialogue generation.
 
- **I am actively looking forward to pursuing a PhD position for Fall 2025 to further my research!** Please see my attached CV for more details. Feel free to contact me if you’re interested!
+ **I am actively looking forward to pursuing a PhD position for Fall 2025 to further my research!** Please see my CV for more details. Feel free to contact me if you’re interested!
 
 
 
