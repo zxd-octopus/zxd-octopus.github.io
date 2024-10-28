@@ -9,32 +9,32 @@ author_profile: true
 
 - **Research Assistant**  
   Leiden Institute of Advanced Computer Science, Leiden University, Leiden, Netherlands.  
-  **Period**: Jun 2024 - Aug 2024   
-  **Supervisor**: Prof. Zhaochun Ren  
-  **Research Area**:  Large Language Model, Recommender System, and Cognitive Bias.  
-  **Contribution**:
-  - Discussion and writing.
-  - Explore the potential impact of cognitive biases on LLM-based news recommender systems and discuss strategies to mitigate these effects.
+  - **Period**: Jun 2024 - Aug 2024   
+  - **Supervisor**: Prof. Zhaochun Ren  
+  - **Research Area**:  Large Language Model, Recommender System, and Cognitive Bias.  
+  - **Contribution**:
+    - Discussion and writing.
+    - Explore the potential impact of cognitive biases on LLM-based news recommender systems and discuss strategies to mitigate these effects.
     
 ---
 - **Research Internship (The 2023 Tencent Rhino-Bird Research Elite Program)**  
   Weixin Group, Tencent Inc.Research Internship, Beijing, China  
-  **Period**: Jun 2023 - Feb 2024  
-  **Supervisor**: Ruobing Xie  
-  **Research Area**: Conversational Recommender System, Large Language Model, and Empathetic Response Generation.  
-  **Contribution**:
-  - Conceptualization, methodology, data collection, and writing.
-  - Propose a novel empathetic conversational recommender(ECR) framework using LLM to enhance recommendation accuracy and improve user satisfaction.
+  - **Period**: Jun 2023 - Feb 2024  
+  - **Supervisor**: Ruobing Xie  
+  - **Research Area**: Conversational Recommender System, Large Language Model, and Empathetic Response Generation.  
+  - **Contribution**:
+    - Conceptualization, methodology, data collection, and writing.
+    - Propose a novel empathetic conversational recommender(ECR) framework using LLM to enhance recommendation accuracy and improve user satisfaction.
     
 ---
 - **Master Thesis**  
   School of Computer Science and Technology, Shandong University, Qingdao, China
-  **Period**: Sep 2021 - Dec 2022  
-  **Supervisor**: Prof. Zhaochun Ren  
-  **Research Area**: Conversational recommender system, variational inference, and knowledge graph.
-  **Contribution**:
-  - Conceptualization, methodology, experiments, and writing.
-  - Propose a variational reasoning CR approach to enhance the original incomplete KGs involved in systems and perform dynamic knowledge reasoning conditioned on the dialogue context.
+  - **Period**: Sep 2021 - Dec 2022  
+  - **Supervisor**: Prof. Zhaochun Ren  
+  - **Research Area**: Conversational recommender system, variational inference, and knowledge graph.
+  - **Contribution**:
+    - Conceptualization, methodology, experiments, and writing.
+    - Propose a variational reasoning CR approach to enhance the original incomplete KGs involved in systems and perform dynamic knowledge reasoning conditioned on the dialogue context.
     
 ---
 - **Bachelor Thesis**  
