@@ -42,8 +42,8 @@ author_profile: true
   **Period**: Sep 2020 - Aug 2022    
   **Research Area**: Medical dialogue generation and memory network.  
   **Contribution**:
- - Conceptualization, methodology, data collection, and writing.
- - Propose a medical dialogue generation method using knowledge-aware memory networks to improve response quality on diversity, correctness, and professionalism.
+  - Conceptualization, methodology, data collection, and writing.
+  - Propose a medical dialogue generation method using knowledge-aware memory networks to improve response quality on diversity, correctness, and professionalism.
 
 ## Work & Teaching Experiences
 
