@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ---
 
-   **Towards Empathetic Conversational Recommender Systems** 
+   **Towards Empathetic Conversational Recommender Systems**  
    **Xiaoyu Zhang**, Ruobing Xie, Yougang Lyu, Xin Xin, Pengjie Ren, Mingfei Liang, Bo Zhang, Zhanhui Kang, Maarten de Rijke, Zhaochun Ren  
    RecSys 2024 (Full track, <font color='red'> Best Full Paper Award </font>)  
    [paper](https://doi.org/10.1145/3640457.3688133) / [code](https://github.com/zxd-octopus/ECR)
