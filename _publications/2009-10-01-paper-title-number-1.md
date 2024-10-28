@@ -1,7 +1,7 @@
 ---
 title: "Towards Empathetic Conversational Recommender Systems"
 collection: publications
-category: # manuscripts
+category: manuscripts
 permalink: [DOI: 10.1145/3640457.3688133](https://doi.org/10.1145/3640457.3688133)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 08-10-2024
