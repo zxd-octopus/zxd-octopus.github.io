@@ -9,6 +9,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ---
 
+   **Deepshop: A benchmark for deep research shopping agents**  
+   Yougang Lyu, **Xiaoyu Zhang**, Lingyong Yan, Maarten de Rijke, Zhaochun Ren, Xiuying Chen 
+   Arxiv  
+   [paper](https://doi.org/10.48550/arXiv.2506.02839)
+
+---
+
    **Towards Empathetic Conversational Recommender Systems**  
    **Xiaoyu Zhang**, Ruobing Xie, Yougang Lyu, Xin Xin, Pengjie Ren, Mingfei Liang, Bo Zhang, Zhanhui Kang, Maarten de Rijke, Zhaochun Ren  
    RecSys 2024 (Full track, <font color='red'> Best Full Paper Award </font>)  
