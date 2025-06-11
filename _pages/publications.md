@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ---
 
    **Deepshop: A benchmark for deep research shopping agents**  
-   Yougang Lyu, **Xiaoyu Zhang**, Lingyong Yan, Maarten de Rijke, Zhaochun Ren, Xiuying Chen 
+   Yougang Lyu, **Xiaoyu Zhang**, Lingyong Yan, Maarten de Rijke, Zhaochun Ren, Xiuying Chen  
    Arxiv  
    [paper](https://doi.org/10.48550/arXiv.2506.02839)
 
