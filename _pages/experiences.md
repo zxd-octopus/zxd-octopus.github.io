@@ -23,7 +23,7 @@ author_profile: true
 
 - **Research Assistant**  
   [Leiden Institute of Advanced Computer Science, Leiden University](https://liacs.leidenuniv.nl/), Leiden, Netherlands.  
-  **Period**: Jun 2024 - Aug 2024   
+  **Period**: Jun 2024 - Present   
   **Supervisor**: [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
     
   ---
