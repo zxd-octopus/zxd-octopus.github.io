@@ -16,8 +16,8 @@ author_profile: true
 ## Invited Talks
 
 - **[ByteDance](https://www.bytedance.com/en/) - Online, Nov 2024**  
-  **Title:** Conversational Recommender Systems
+  **Title:** User-centric Conversational Recommender Systems.
 
 ---
 - **University of Glasgow - Online, Nov 2024**  
-  **Title:** Knowledge based Conversational Recommender Systems
+  **Title:**  Enhancing CRSs: Integrating Knowledge, Context, and Emotions.
